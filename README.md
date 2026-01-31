@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="image" src="https://github.com/user-attachments/assets/763529ee-4ae7-449d-bed7-af22a38bec02" />
+<img width="820" height="121" alt="image" src="https://github.com/user-attachments/assets/f5739d74-7acf-47d6-b4aa-7dd99cef11df" />
 <br><br>
 <b>Tout ce dont vous devez savoir sur Papillon, réuni en une seule source de connaissances.</b>
 </div>
