@@ -51,6 +51,12 @@ Si vous n'acceptez pas ces conditions, vous êtes libre de ne pas utiliser Papil
 
 
 
+## Télémétrie
+
+Papillon peut collecter, de manière optionnelle et uniquement avec votre consentement explicite, des données de télémétrie anonymisées à des fins d'amélioration de l'application. Ces données ne contiennent aucune information personnelle ni scolaire. Vous pouvez activer ou désactiver la télémétrie à tout moment dans les paramètres de l'application. Pour plus de détails, consultez notre [politique de confidentialité](privacy-policy.md).
+
+
+
 ## Obligations de l'utilisateur
 
 En utilisant Papillon, vous vous engagez à ne pas détourner l'application de son usage prévu, à ne pas tenter de compromettre sa sécurité ou celle des autres utilisateurs, et à ne pas vous faire passer pour une autre personne. Vous vous engagez également à ne pas utiliser Papillon à des fins illégales ou préjudiciables à autrui.
