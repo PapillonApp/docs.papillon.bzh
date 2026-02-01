@@ -12,7 +12,7 @@ Pour compiler Papillon pour iOS, vous devez être sous MacOS et avoir installé 
 
 {% stepper %}
 {% step %}
-### Prébuild du projet
+#### Prébuild du projet
 
 Dans la racine du projet, éxecutez l'une de ces commandes :
 
@@ -44,15 +44,15 @@ bun prebuild
 {% endstep %}
 
 {% step %}
-### Ouverture d'Xcode
+#### Ouverture d'Xcode
 
 Ouvrir `Papillon.xcworkspace` avec xCode (**TRÈS IMPORTANT**)
 
-> Il se trouve dans le dossier `/ios` du projet&#x20;
+> Il se trouve dans le dossier `/ios` du projet
 {% endstep %}
 
 {% step %}
-### Configuration de Signing (optionnel)
+#### Configuration de Signing (optionnel)
 
 {% hint style="info" %}
 Cette étape n'est utile que si vous souhaitez lancer Papillon sur un appareil physique ou créer une build pour distribuer l'app
@@ -66,19 +66,19 @@ Si vous n'avez pas de compte payant Apple Developer: changer les teams pour le s
 {% endstep %}
 
 {% step %}
-### Selection du scheme et de la target
+#### Selection du scheme et de la target
 
-#### Pour développer
+**Pour développer**
 
 Sélectionner `Papillon (debug)`au niveau des schemes et votre target (physique ou simulateur)
 
-#### Pour distribuer ou tester en production
+**Pour distribuer ou tester en production**
 
 Sélectionner `Papillon (release)`au niveau des schemes et votre target (physique ou simulateur)
 {% endstep %}
 
 {% step %}
-### Builder
+#### Builder
 
 {% tabs %}
 {% tab title="Pour développer (debug)" %}
