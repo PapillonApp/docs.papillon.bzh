@@ -187,7 +187,7 @@ Vous pouvez demander la limitation du traitement dans certaines circonstances.
 
 #### 7.5 Droit à la portabilité (Article 20 RGPD)
 
-Vous pouvez demander la récupération de vos données dans un format structuré.
+Vous pouvez demander la récupération de vos données de télémétrie dans un format structuré. Ce droit ne s'applique pas aux données scolaires, dont le traitement est fondé sur l'intérêt légitime.
 
 #### 7.6 Droit d'opposition (Article 21 RGPD)
 
