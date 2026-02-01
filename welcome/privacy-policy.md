@@ -187,7 +187,7 @@ Vous pouvez demander la limitation du traitement dans certaines circonstances.
 
 #### 7.5 Droit à la portabilité (Article 20 RGPD)
 
-Vous pouvez demander la récupération de vos données de télémétrie dans un format structuré. Ce droit ne s'applique pas aux données scolaires, dont le traitement est fondé sur l'intérêt légitime.
+Ce droit ne s'applique qu'aux traitements fondés sur le consentement ou un contrat. Dans le cas de Papillon, les données scolaires sont traitées sur le fondement de l'intérêt légitime et les données de télémétrie sont anonymisées avant transmission. Le droit à la portabilité ne s'applique donc pas en pratique aux données traitées par Papillon.
 
 #### 7.6 Droit d'opposition (Article 21 RGPD)
 
