@@ -54,7 +54,7 @@ Cette politique vous informe sur la manière dont nous collectons, utilisons, co
 
 **Finalité :** Permettre l'authentification et l'accès aux données scolaires via les API officielles
 
-**Base légale :** Exécution du service demandé (Article 6.1.b du RGPD)
+**Base légale :** Intérêts légitimes poursuivis par le responsable du traitement (Article 6.1.f du RGPD)
 
 **Traitement :** Local uniquement - ces données sont stockées chiffrées sur votre appareil
 
@@ -76,7 +76,7 @@ Cette politique vous informe sur la manière dont nous collectons, utilisons, co
 
 **Finalité :** Affichage et consultation des informations scolaires dans l'interface de l'application
 
-**Base légale :** Exécution du service demandé (Article 6.1.b du RGPD)
+**Base légale :** Intérêts légitimes poursuivis par le responsable du traitement (Article 6.1.f du RGPD)
 
 **Traitement :** Local uniquement - ces données ne quittent jamais votre appareil
 
