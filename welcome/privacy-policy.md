@@ -161,11 +161,7 @@ Les données de télémétrie anonymisées peuvent être partagées avec :
 
 ### 6. Transferts internationaux
 
-Aucun transfert international de données n'est réalisé :
-
-* **Les données de télémétrie sont hébergées exclusivement en France** sur des serveurs respectant les exigences du RGPD.
-* **Aucune donnée n’est transférée hors de l’Union européenne** et aucune transmission vers des pays tiers n'est envisagée.
-* Toutes les opérations de collecte, d'hébergement et de traitement sont réalisées sur le territoire français.
+Aucun transfert international de données personnelles scolaires n'est réalisé, ces données étant traitées exclusivement sur votre appareil. Le site web et la documentation sont hébergés respectivement sur GitHub.com et GitBook.com, des plateformes américaines couvertes par le cadre EU-US Data Privacy Framework adopté par la Commission européenne. Aucune donnée personnelle scolaire n'est transférée vers ces plateformes.
 
 ### 7. Droits des personnes concernées
 
