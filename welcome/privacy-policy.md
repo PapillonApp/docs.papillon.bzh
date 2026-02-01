@@ -161,9 +161,9 @@ Les données de télémétrie anonymisées peuvent être partagées avec :
 
 ### 6. Transferts internationaux
 
-Aucun transfert international de données personnelles scolaires n'est réalisé, ces données étant traitées exclusivement sur votre appareil. Le site web et la documentation sont hébergés respectivement sur GitHub.com et GitBook.com, des plateformes américaines couvertes par le cadre EU-US Data Privacy Framework adopté par la Commission européenne. Aucune donnée personnelle scolaire n'est transférée vers ces plateformes.
+Aucun transfert international de données personnelles scolaires n'est réalisé, ces données étant traitées exclusivement sur votre appareil. Le site web est hébergé sur GitHub.com, une plateforme américaine certifiée sous le cadre EU-US Data Privacy Framework adopté par la Commission européenne. La documentation est hébergée sur GitBook.com, une plateforme américaine dont les données sont stockées sur des serveurs américains (Google Cloud) et qui garantit sa conformité au RGPD via des certifications SOC 2 et ISO 27001. Aucune donnée personnelle scolaire n'est transférée vers ces plateformes.
 
-Les données de télémétrie anonymisées sont traitées via Countly, un outil d'analyse open source hébergé en France sur des serveurs respectant les exigences du RGPD. Aucun transfert international n'est réalisé pour ces données.
+Les données de télémétrie anonymisées sont traitées via Countly, un outil d'analyse open source hébergé en France sur un serveur dédié chez Scaleway, respectant les exigences du RGPD. Aucun transfert international n'est réalisé pour ces données.
 
 ### 7. Droits des personnes concernées
 
@@ -245,7 +245,7 @@ Le site web utilise uniquement des cookies techniques nécessaires au fonctionne
 
 ### 11. Mineurs
 
-Papillon peut être utilisée par des mineurs dans le cadre de leur scolarité. Le traitement des données scolaires est basé sur les intérêts légitimes poursuivis par le responsable du traitement (Article 6.1.f du RGPD) et ne nécessite pas de consentement parental. En revanche, pour les mineurs de moins de 15 ans souhaitant activer la télémétrie, le consentement doit être donné par un parent ou tuteur légal, conformément à l'Article 8 du RGPD et à l'Article 45 de la loi Informatique et Libertés.
+Papillon peut être utilisée par des mineurs dans le cadre de leur scolarité. Le traitement des données scolaires est basé sur les intérêts légitimes poursuivis par le responsable du traitement (Article 6.1.f du RGPD) et ne nécessite pas de consentement parental. Le RGPD exige une attention particulière lorsque la personne concernée est un enfant : nous avons veillé à ce que ce traitement soit proportionné en limitant celui-ci à un stockage exclusivement local sur l'appareil de l'utilisateur, sans transmission vers des serveurs tiers, ce qui minimise l'impact sur les droits et libertés des mineurs. En revanche, pour les mineurs de moins de 15 ans souhaitant activer la télémétrie, le consentement doit être donné par un parent ou tuteur légal, conformément à l'Article 8 du RGPD et à l'Article 45 de la loi Informatique et Libertés.
 
 Papillon ne dispose pas de mécanisme technique permettant de vérifier l'âge des utilisateurs. Il est donc de la responsabilité des parents ou tuteurs légaux de s'assurer que l'utilisation de cette fonctionnalité par un mineur est autorisée.
 
