@@ -1,5 +1,5 @@
 ---
-description: 'Dernière mise à jour : 13 septembre 2025'
+description: 'Dernière mise à jour : 1er février 2026'
 ---
 
 # Politique de confidentialité
