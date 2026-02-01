@@ -226,7 +226,7 @@ Pour exercer vos droits, contactez-nous :
 
 #### 8.3 En cas de violation de données
 
-En cas de violation de données susceptible d'engendrer un risque élevé pour vos droits et libertés, nous vous informerons dans les 72 heures conformément à l'article 34 du RGPD.
+En cas de violation de données à caractère personnel, nous notifierons la CNIL dans les meilleurs délais et, si possible, dans les 72 heures suivant la constatation de la violation, conformément à l'article 33 du RGPD. Si cette violation est susceptible d'engendrer un risque élevé pour vos droits et libertés, nous vous en informerons sans retard injustifié, conformément à l'article 34 du RGPD.
 
 ### 9. Conservation des données
 
