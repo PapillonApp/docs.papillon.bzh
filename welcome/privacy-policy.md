@@ -163,6 +163,8 @@ Les données de télémétrie anonymisées peuvent être partagées avec :
 
 Aucun transfert international de données personnelles scolaires n'est réalisé, ces données étant traitées exclusivement sur votre appareil. Le site web et la documentation sont hébergés respectivement sur GitHub.com et GitBook.com, des plateformes américaines couvertes par le cadre EU-US Data Privacy Framework adopté par la Commission européenne. Aucune donnée personnelle scolaire n'est transférée vers ces plateformes.
 
+Les données de télémétrie anonymisées sont traitées via Countly, un outil d'analyse open source hébergé en France sur des serveurs respectant les exigences du RGPD. Aucun transfert international n'est réalisé pour ces données.
+
 ### 7. Droits des personnes concernées
 
 Conformément au RGPD, vous disposez des droits suivants :
