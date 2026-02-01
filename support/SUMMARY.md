@@ -9,7 +9,3 @@
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 
 * [Questions fréquemment posées](start/faq.md)
-
-## Sécurité et vie privée <a href="#privacy" id="privacy"></a>
-
-* [Conditions générales d'utilisation](privacy/cgu.md)
