@@ -322,6 +322,6 @@ Papillon fonctionne de manière similaire aux applications officielles des servi
 
 ***
 
-**Cette politique de confidentialité est effective à compter du 13 septembre 2025.**
+**Cette politique de confidentialité est effective à compter du 1er février 2026.**
 
 _Pour toute question concernant cette politique, n'hésitez pas à nous contacter à_ [dpo@papillon.bzh](mailto:dpo@papillon.bzh)_._
