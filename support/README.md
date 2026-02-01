@@ -25,4 +25,4 @@ layout:
 
 ### Découvre nos derniers articles
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h2>Les moyennes</h2></td><td>Chez Papillon, <strong>on sait que ta moyenne est super importante.</strong> Mais comment on la calcule ?</td><td><a href=".gitbook/assets/List (1).png">List (1).png</a></td><td><a href="kb/averages.md">averages.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover-dark data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td><h2>Les moyennes</h2></td><td>Chez Papillon, <strong>on sait que ta moyenne est super importante.</strong> Mais comment on la calcule ?</td><td></td><td><a href="kb/averages.md">averages.md</a></td><td></td></tr></tbody></table>
