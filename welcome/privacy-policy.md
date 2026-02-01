@@ -289,7 +289,7 @@ Nous nous engageons à ne pas modifier fondamentalement notre approche de protec
 
 Pour toute question ou réclamation concernant le traitement de vos données :
 
-* **Email principal** : [bureau@getpapillon.bzh](mailto:bureau@papillon.bzh)
+* **Email principal** : [bureau@papillon.bzh](mailto:bureau@papillon.bzh)
 * **Support technique** : [support@papillon.bzh](mailto:support@papillon.bzh)
 * **Protection des données** : [dpo@papillon.bzh](mailto:dpo@papillon.bzh)
 
