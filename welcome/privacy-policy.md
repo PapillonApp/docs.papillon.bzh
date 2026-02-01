@@ -243,9 +243,9 @@ Le site web utilise uniquement des cookies techniques nécessaires au fonctionne
 
 ### 11. Mineurs
 
-Papillon peut être utilisée par des mineurs dans le cadre de leur scolarité. Conformément aux dispositions du RGPD concernant les mineurs (Article 8), nous recommandons l'accompagnement parental pour les utilisateurs de moins de 15 ans.
+Papillon peut être utilisée par des mineurs dans le cadre de leur scolarité. Le traitement des données scolaires est basé sur l'exécution du service demandé (Article 6.1.b du RGPD) et ne nécessite pas de consentement parental. En revanche, pour les mineurs de moins de 15 ans souhaitant activer la télémétrie, le consentement doit être donné par un parent ou tuteur légal, conformément à l'Article 8 du RGPD et à l'Article 45 de la loi Informatique et Libertés.
 
-**Aucune donnée spécifique aux mineurs n'est collectée au-delà des données scolaires nécessaires.**
+Papillon ne dispose pas de mécanisme technique permettant de vérifier l'âge des utilisateurs. Il est donc de la responsabilité des parents ou tuteurs légaux de s'assurer que l'utilisation de cette fonctionnalité par un mineur est autorisée.
 
 ### 12. Hébergement et sous-traitance
 
