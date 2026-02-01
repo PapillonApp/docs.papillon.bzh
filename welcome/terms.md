@@ -35,7 +35,7 @@ Les services concernés par ces conditions générales d'utilisation incluent :
 
 * Papillon est un client de vie scolaire libre, gratuit, open-source et collaboratif, développé de manière indépendante et sans aucune affiliation à une entreprise.
 * L'application Papillon est un logiciel conçu pour permettre l'accès aux données des services scolaires, transmises par l'intermédiaire de bibliothèques tierces. Papillon n'est pas responsable de la manière dont ces données sont transmises par ces bibliothèques, ni du fonctionnement de celles-ci, dès lors que leurs licences et déclarations de confidentialité sont conformes à celles de Papillon.
-* Aucune personne ou logiciel automatisé n'utilise ou ne collecte vos données personnelles, à l'exception des données de télémétrie anonymisées décrites ci-dessous.
+* Aucune personne ou logiciel automatisé n'utilise ou ne collecte vos données personnelles à des fins commerciales ou tierces, à l'exception des données de télémétrie anonymisées décrites ci-dessous.
 * Vos données scolaires sont récupérées exclusivement depuis les serveurs officiels des services de vie scolaire via leurs APIs et sont traitées localement sur votre appareil, conformément à la politique de confidentialité. Papillon n'est pas responsable de la sécurité des données conservées localement sur votre appareil.
 * La suppression de l'application ou sa déconnexion entraînera la suppression de toutes les données stockées localement. Vous pouvez accéder à ces données via le menu de développement (LocalStorage).
 * Vous avez le droit d'utiliser, de modifier, de redistribuer et de partager Papillon sous les termes de la licence GPL-v3.0.
