@@ -8,4 +8,4 @@
 
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 
-* [Questions fréquemment posées](start/questions-frequemment-posees.md)
+* [Questions fréquemment posées](start/faq.md)
