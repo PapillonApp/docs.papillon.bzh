@@ -12,5 +12,5 @@
 
 ## Sécurité et vie privée <a href="#privacy" id="privacy"></a>
 
-* [Conditions générales d'utilisation](https://app.gitbook.com/s/Qz3J3Z3NRptalDVJTo2z/terms)
 * [Politique de confidentialité](https://app.gitbook.com/s/Qz3J3Z3NRptalDVJTo2z/privacy-policy)
+* [Conditions générales d'utilisation](https://app.gitbook.com/s/Qz3J3Z3NRptalDVJTo2z/terms)
