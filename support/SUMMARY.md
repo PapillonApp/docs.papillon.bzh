@@ -5,6 +5,7 @@
 ## Base de connaissances <a href="#kb" id="kb"></a>
 
 * [Moyennes générales](kb/averages.md)
+* [Bugs, erreurs et plantages](kb/bugs-erreurs-et-plantages.md)
 
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 
