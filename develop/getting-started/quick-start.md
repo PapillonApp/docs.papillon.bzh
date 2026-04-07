@@ -1,5 +1,18 @@
 # 👋 Démarrage rapide
 
+## Avant de commencer
+
+Alors comme ça, tu es prêt à sauter le pas et contribuer à Papillon ? Excellente décision. Mais avant de commencer, pour tout comprendre, remettons-nous à jour.
+
+{% hint style="info" %}
+## Pour comprendre le code ainsi que la documentation, il faut être à l'aise avec **JavaScript** et avec Node.
+
+Si ce n'est pas le cas, il existe de nombreuses ressources sur Internet pour apprendre : tu va voir, c'est facile ! Tu peux même demander à ton assistant IA de t'aider avec des exercices et des explications claires lorsque tu rencontre un problème. Cependant, ne t'appuie pas trop dessus ! On est là pour apprendre ensemble !
+{% endhint %}
+
+* Papillon est une application mobile dite "native". Contrairement à un site web, **elle n'utilise pas les langages HTML et CSS mais le JSX**. C'est ressemblant mais certaines choses sont différentes.
+* Une application native ne fonctionne pas dans un navigateur. Elle doit être **compilée**, c'est à dire transformé en programme informatique exécutable par iOS ou Android. Pas besoin de tout savoir, **ce processus est en grande partie automatique**.
+
 ## À savoir
 
 Papillon est développé en [**React Native**](https://reactnative.dev/docs/getting-started). C'est un framework JavaScript (c'est-à-dire que vous développerez avec du code JavaScript). Il vous faut donc un minimum de connaissances dans ce langage de programmation.
