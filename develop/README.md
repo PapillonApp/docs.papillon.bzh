@@ -32,8 +32,17 @@ icon: house
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
+<h3 align="center"><span data-gb-custom-inline data-tag="emoji" data-code="1f973">🥳</span> Bienvenue à toi, cher contributeur !</h3>
+
 {% hint style="warning" %}
 ## **Utilisation de l'IA sur Papillon**
 
 Nous reconnaissons que l’intelligence artificielle peut être un outil précieux lorsqu’elle est utilisée en complément de véritables connaissances. Cependant, les Pull Requests ou Issues rédigées exclusivement ou en grande partie à l'aide de l'intelligence artificielle seront systématiquement refusées.
 {% endhint %}
+
+<p align="center">Papillon est un projet fait par des étudiants, pour des étudiants. <strong>L'intérêt étant que n'importe qui, qu'importe son niveau en informatique, puisse participer</strong>. C'est un moyen génial d'apprendre à coder des applications mobiles, avec un projet sympa qui peut t'intéresser.</p>
+
+<p align="center">Alors si tu es prêt à tenter l'aventure (il faut que tu sois à l'aise avec JavaScript), commence par notre <a href="getting-started/quick-start.md">guide de démarrage rapide</a> pour tout installer et tout comprendre !</p>
+
