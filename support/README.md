@@ -1,8 +1,27 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # Accueil
 
 <figure><img src=".gitbook/assets/Papiicon.png" alt="" width="128"><figcaption></figcaption></figure>
 
-<h2 align="center">Centre d'aide Papillon</h2>
+<h2 align="center"><strong>Centre d'aide Papillon</strong></h2>
 
 <p align="center">Besoin d'aide avec l'appli Papillon ? Nous avons la solution.</p>
 
