@@ -6,7 +6,9 @@ Tu viens d'installer Papillon mais tu te pose la question : **comment me connect
 * [#avec-ecoledirecte](se-connecter-a-un-service.md#avec-ecoledirecte "mention")
 * [#avec-skolengo](se-connecter-a-un-service.md#avec-skolengo "mention")
 
-## Avec Pronote
+***
+
+## Avec **Pronote**
 
 Lors de l'ouverture de l'app, indique que tu es un **collégien**, un **lycéen** ou un **étudiant**. puis sélectionne le service **PRONOTE**.
 
@@ -48,7 +50,9 @@ Une fois l'établissement trouvé, tu n'a plus qu'a indiquer ton identifiant et 
 Que ça soit Toutatice, Mon ENT occitanie, Paris Classe Numérique, Mon Bureau Numérique, Atrium, ENT Hauts-de-France, et bien d'autres
 {% endhint %}
 
-## Avec ÉcoleDirecte
+***
+
+## Avec **ÉcoleDirecte**
 
 Lors de l'ouverture de l'app, indique que tu es un **collégien** ou un **lycéen**.
 
@@ -62,7 +66,9 @@ Sélectionne le service ÉcoleDirecte.
 
 Indique ton identifiant ainsi que ton mot de passe puis appuie sur l'option permettant de se connecter.
 
-## Avec Skolengo
+***
+
+## Avec **Skolengo**
 
 Lors de l'ouverture de l'app, indique que tu es un **collégien** ou un **lycéen**.
 
