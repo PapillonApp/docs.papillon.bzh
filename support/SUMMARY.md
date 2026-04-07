@@ -7,6 +7,7 @@
 * [Se connecter à un service](kb/se-connecter-a-un-service.md)
 * [Moyennes générales](kb/averages.md)
 * [Bugs, erreurs et plantages](kb/bugs-erreurs-et-plantages.md)
+* [Langue et régions](kb/langue-et-regions.md)
 
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 
