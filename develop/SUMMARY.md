@@ -5,7 +5,6 @@
 ## Commencer avec Papillon <a href="#getting-started" id="getting-started"></a>
 
 * [👋 Démarrage rapide](getting-started/quick-start.md)
-* [📦 Environnement](getting-started/environment.md)
 * [🏗️ Architecture](getting-started/architecture.md)
 * [📂 Structure](getting-started/structure.md)
 * [🚫 Règles de contribution](getting-started/rules.md)
