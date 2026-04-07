@@ -4,6 +4,8 @@ icon: house
 
 # Accueil
 
+<figure><img src=".gitbook/assets/Papiicon.png" alt="" width="128"><figcaption></figcaption></figure>
+
 <h2 align="center"><strong>Développer pour Papillon</strong></h2>
 
 <p align="center">Cette partie de la documentation vous sera utile pour vos premières contributions à Papillon, si elle ne répond pas à toutes vos questions, nous y répondrons avec plaisir sur le <a href="https://discord.gg/aKhYSBSzgW">serveur Discord de Papillon</a>.</p>
