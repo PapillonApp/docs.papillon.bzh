@@ -28,6 +28,12 @@ Pour cela, un écran apparaît et te propose 3 options :&#x20;
 * Choisis la ville _(et le bon arrondissement le cas échéant)_.
 * Recherche ton établissement dans la liste une fois choisi. Son nom complet doit apparaître (par exemple "LYCEE GEN. ET TECHNOLOGIQUE SCHRODER"
 
+{% hint style="info" %}
+## Que faire si je ne trouve pas mon établissement ?
+
+Malheureusement, ce n'est pas nous mais Index Éducation qui maintient la liste des établissements sur Pronote. Si tu ne trouves pas ton collège / lycée, tu peux essayer les autres méthodes ci-dessous.
+{% endhint %}
+
 #### Tu scannes un QR-Code Pronote
 
 Depuis Pronote sur ordinateur, tu peux créer un QR-Code a usage unique te permettant de te connecter. Scanne le avec l'option prévue pour te connecter.
