@@ -66,6 +66,6 @@ $$
 {% endtab %}
 {% endtabs %}
 
-### Pourquoi ma moyenne n'est pas la bonne.
+### Pourquoi ma moyenne n'est pas la bonne ?
 
 On ne connaît malheureusement pas votre moyenne exacte. Si nous sommes en capacité de vous la donner, cela sera affiché juste en dessous de votre moyenne avec la mention "fournie par l'établissement". Sinon, nous faisons de notre mieux pour avoir la note la plus précise possible.
