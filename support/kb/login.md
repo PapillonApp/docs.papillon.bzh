@@ -2,9 +2,9 @@
 
 Tu viens d'installer Papillon mais tu te pose la question : **comment me connecter à mon service scolaire ?** Tu va voir, c'est facile !
 
-* [#avec-pronote](se-connecter-a-un-service.md#avec-pronote "mention")
-* [#avec-ecoledirecte](se-connecter-a-un-service.md#avec-ecoledirecte "mention")
-* [#avec-skolengo](se-connecter-a-un-service.md#avec-skolengo "mention")
+* [#avec-pronote](login.md#avec-pronote "mention")
+* [#avec-ecoledirecte](login.md#avec-ecoledirecte "mention")
+* [#avec-skolengo](login.md#avec-skolengo "mention")
 
 ***
 
