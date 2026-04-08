@@ -25,7 +25,31 @@ layout:
 
 <p align="center">Besoin d'aide avec l'appli Papillon ? Nous avons la solution.</p>
 
+{% columns %}
+{% column %}
+{% content-ref url="kb/login.md" %}
+[login.md](kb/login.md)
+{% endcontent-ref %}
 
+{% content-ref url="kb/languages.md" %}
+[languages.md](kb/languages.md)
+{% endcontent-ref %}
+
+
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="kb/bugs.md" %}
+[bugs.md](kb/bugs.md)
+{% endcontent-ref %}
+
+{% content-ref url="kb/averages.md" %}
+[averages.md](kb/averages.md)
+{% endcontent-ref %}
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 ### Découvre nos derniers articles
 

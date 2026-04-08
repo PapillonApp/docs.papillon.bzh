@@ -4,10 +4,10 @@
 
 ## Base de connaissances <a href="#kb" id="kb"></a>
 
-* [Se connecter à un service](kb/login.md)
-* [Moyennes générales](kb/averages.md)
-* [Bugs, erreurs et plantages](kb/bugs.md)
-* [Langues et régions](kb/languages.md)
+* [👋 Se connecter à un service](kb/login.md)
+* [📈 Moyennes générales](kb/averages.md)
+* [❌ Bugs, erreurs et plantages](kb/bugs.md)
+* [✈️ Langues et régions](kb/languages.md)
 
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 

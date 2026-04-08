@@ -1,4 +1,4 @@
-# Langue et régions
+# ✈️ Langues et régions
 
 Papillon est un projet communautaire traduit bénévolement dans plus de 40 langues.
 

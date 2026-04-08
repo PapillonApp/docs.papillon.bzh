@@ -1,4 +1,4 @@
-# Bugs, erreurs et plantages
+# ❌ Bugs, erreurs et plantages
 
 Papillon est un projet en cours de développement actif. Cela veut dire que des changements majeurs sont réguliers et que des bugs et plantages peuvent survenir.
 

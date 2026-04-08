@@ -1,4 +1,4 @@
-# Se connecter à un service
+# 👋 Se connecter à un service
 
 Tu viens d'installer Papillon mais tu te pose la question : **comment me connecter à mon service scolaire ?** Tu va voir, c'est facile !
 

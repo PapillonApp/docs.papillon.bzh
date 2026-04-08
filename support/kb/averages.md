@@ -1,4 +1,4 @@
-# Moyennes générales
+# 📈 Moyennes générales
 
 Chez Papillon, **on sait que ta moyenne est super importante.** Mais comment on la calcule ? C'est un peu un jeu de détective ! Le problème ? Chaque école a sa propre "recette" pour faire les moyennes.
 
