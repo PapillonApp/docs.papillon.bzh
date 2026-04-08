@@ -56,6 +56,12 @@ Une fois l'établissement trouvé, tu n'a plus qu'a indiquer ton identifiant et 
 Que ça soit Toutatice, Mon ENT occitanie, Paris Classe Numérique, Mon Bureau Numérique, Atrium, ENT Hauts-de-France, et bien d'autres
 {% endhint %}
 
+{% hint style="danger" %}
+## Que faire si ça charge à l'infini ?
+
+**Ce n'est pas normal.** La connexion ne devrait pas prendre plus de **30 secondes**. Si c'est le cas, quelque chose s'est mal passé. Essaye d'attendre une mise à jour qui pourrait régler le problème (d'ici quelques jours)
+{% endhint %}
+
 ***
 
 ## Avec **ÉcoleDirecte**
