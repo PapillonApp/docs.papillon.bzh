@@ -10,7 +10,7 @@ Notre solution ? On fait de notre mieux pour l'estimer. Mais c'est pas toujours 
 
 {% columns fullWidth="false" %}
 {% column %}
-<figure><picture><source srcset="../.gitbook/assets/image (2).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/image (2) (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (2).png" alt=""></picture><figcaption></figcaption></figure>
 
 #### **Affichage lorsque la moyenne est fournie par l'établissement**
 
@@ -18,7 +18,7 @@ Le chiffre affiché est exactement le même que celui de votre service (Pronote,
 {% endcolumn %}
 
 {% column %}
-<figure><picture><source srcset="../.gitbook/assets/image (3).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (1).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/image (3).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
 
 #### **Affichage lorsque la moyenne n'est pas fournie par l'établissement**
 

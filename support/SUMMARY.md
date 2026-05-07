@@ -8,6 +8,7 @@
 * [📈 Moyennes générales](kb/averages.md)
 * [❌ Bugs, erreurs et plantages](kb/bugs.md)
 * [✈️ Langues et régions](kb/languages.md)
+* [🤝 Partenaires de Papillon](kb/partenaires-de-papillon.md)
 
 ## Démarrer avec Papillon <a href="#start" id="start"></a>
 
