@@ -90,7 +90,9 @@ Vous pouvez également nous envoyer un e-mail à [support@papillon.bzh](mailto:s
 
 <summary>📱   <strong>Sur quels appareils fonctionne Papillon ?</strong></summary>
 
-Papillon est disponible sur **Android** à partir de la version **7.0**, ainsi que sur **iPhone** à partir d'**iOS 17.6**. Pour profiter de l'application, assurez-vous que votre appareil est bien à jour.
+Papillon est disponible sur **Android** à partir de la version **7.0**, ainsi que sur **iPhone** à partir d'**iOS 17.6**. Pour profiter de l'application, assurez-vous que votre appareil est bien à jour.\
+\
+Papillon est une **application mobile**. Il n'existe pas de version PC ou Mac, pour des raisons techniques. Il faut obligatoirement un appareil Android ou iOS récent pour en profiter.
 
 </details>
 
