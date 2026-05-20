@@ -37,7 +37,7 @@ Dans l'application, tu as le choix entre plusieurs algorithmes de calcul. Vous p
 > La moyenne des matières est utilisée par défaut car celle ci est utilisée en majorité par les établissements scolaires. **Celle ci calcule la moyenne de chaque matière puis en fait une moyenne générale**.
 
 {% hint style="success" %}
-C'est la méthode par défaut utilisée par Papillon
+**C'est la méthode par défaut utilisée par Papillon**. C'est généralement la plus fiable et la plus proche de ta vraie moyenne générale. Cependant, il peut y avoir un écart entre 0.1 pt et un demi-point dans le pire des cas.
 {% endhint %}
 
 D'abord, elle calcule la moyenne de chaque matière. Pour cela, elle convertit toutes les notes sur une base de /20 (par exemple, un 12/15 devient un 16/20) et les multiplie par leur coefficient pour donner plus de poids aux notes importantes.
@@ -63,6 +63,21 @@ Il s'agit donc d'une moyenne pondérée classique sur l'ensemble des points :
 $$
 \text{Moyenne} = \left(\frac{\text{Total des points obtenus pondérés}}{\text{Total des points possibles pondérés}}\right) \times 20
 $$
+{% endtab %}
+
+{% tab title="Médiane des matières" %}
+> La médiane est une autre façon de regarder tes résultats. Contrairement à la moyenne qui peut être complètement faussée par une seule très bonne ou très mauvaise note, **la médiane coupe ton ensemble de notes en deux parties égales**.
+
+{% hint style="info" %}
+La médiane te permet de savoir où tu te situes "au milieu" de tes notes. **Elle peut être bien plus haute ou plus basse que ta moyenne, mais ne reflète pas la moyenne de ton bulletin : c'est un outil pour voir le millieu des notes que tu as eu le plus souvent.**
+{% endhint %}
+
+Pour la calculer, l'application prend toutes tes notes converties sur 20, les trie de la plus petite à la plus grande, et prend la note qui se trouve pile au centre.
+
+* Si tu as un nombre impair de notes, c'est la note du milieu : $$\text{Position} = \frac{n + 1}{2}$$
+* Si tu as un nombre pair de notes, elle fait la moyenne des deux notes centrales : $$\text{Position} = \frac{n}{2} \text{ et } \frac{n}{2} + 1$$
+
+C'est un excellent outil pour voir ta vraie régularité, sans qu'un accident (un 02/20) ou un exploit (un 20/20) ne vienne masquer le reste de tes efforts !
 {% endtab %}
 {% endtabs %}
 
