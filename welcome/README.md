@@ -15,6 +15,10 @@ layout:
     visible: false
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Accueil
@@ -23,7 +27,7 @@ layout:
 
 <p align="center">Tout ce dont vous devez savoir sur Papillon, réuni en une seule source de connaissances.</p>
 
-<p align="center"><a href="https://papillon.bzh/download" class="button primary">Obtenir Papillon</a> <a href="https://github.com/PapillonApp/Papillon" class="button secondary">Forker le projet sur GitHub</a></p>
+<p align="center"><a href="https://papillon.bzh/download" class="button primary" data-icon="down-to-line">Télécharger Papillon</a> <a href="https://github.com/PapillonApp/Papillon" class="button secondary" data-icon="github">Voir le projet sur GitHub</a><a href="http://go.papillon.bzh/discord" class="button secondary" data-icon="discord">Communauté Discord</a></p>
 
 <p align="center"></p>
 
