@@ -2,7 +2,7 @@
 description: Welcome to your team’s developer platform
 hidden: true
 layout:
-  width: wide
+  width: default
   title:
     visible: false
   description:
@@ -22,6 +22,8 @@ layout:
 ---
 
 # Accueil
+
+##
 
 <div align="left"><figure><picture><source srcset=".gitbook/assets/image (7).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (6).png" alt="Papillon Documentation" width="375"></picture><figcaption></figcaption></figure></div>
 
